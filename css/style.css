@@ -1,6 +1,5 @@
 nav{
  background-color: #E8CFB0;
- color: black;
  position: sticky;
  top: 0;
  display: flex;
@@ -8,3 +7,4 @@ nav{
  align-items: center;
  padding: 0 20px;
 }
+
