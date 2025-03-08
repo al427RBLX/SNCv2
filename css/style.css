@@ -1,9 +1,8 @@
-.footer {
-    background-color: #E8CFB0;
-    color: black;
+body {
+    font-family: Clarkson;
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: #121215;
     text-align: center;
-    padding: 10px;
-    list-style: none;
-    margin-top: auto;
-    gap: 1em;
 }
