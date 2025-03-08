@@ -26,7 +26,7 @@ nav {
 .nav-links a {
     display: block;
     padding: 30px 16px;
-    color: #111;
+    color: black;
     text-decoration: none;
     font-size: 16px;
     text-transform: uppercase;
@@ -47,8 +47,6 @@ nav {
 .nav-links .nav-cta-button:hover {
     background-color: #E8CFB0;
 }
-
-/* Responsive Design */
 
 @media (max-width: 768px) {
 
