@@ -17,14 +17,6 @@ nav {
     width: 40px;
 }
 
-.logo h2 {
-    margin-left: 10px;
-    color: #111;
-    text-decoration: none;
-    font-size: 28px;
-    font-family: Clarkson;
-}
-
 .nav-links {
     display: flex;
     align-items: center;
