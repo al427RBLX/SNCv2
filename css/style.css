@@ -50,16 +50,6 @@ nav {
 }
 
 @media (max-width: 768px){
-    nav {
-        position: sticky;
-        top: 0;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0 20px;
-        background-color: #E8CFB0;
-    }
-
     .logo {
         display: flex;
         align-items: center;
