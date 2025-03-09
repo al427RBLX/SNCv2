@@ -49,4 +49,35 @@ nav {
     background-color: #E8CFB0;
 }
 
-@media (max-width: 768px){}
+@media (max-width: 768px){
+    nav {
+        flex-wrap: wrap;
+    }
+
+    .hamburger {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .logo {
+        height: 80px;
+    }
+
+    .nav-links {
+        display: none;
+        flex-basis: 100%;
+        flex-wrap: wrap;
+    }
+
+    .nav-links li {
+        flex-basis: 100%;
+    }
+
+    .nav-links a {
+        text-align: center;
+        font-size: 28px;
+    }
+
+    .nav-links a:hover {
+        background-color: #E8CFB0;
+    }
