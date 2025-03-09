@@ -49,13 +49,4 @@ nav {
     background-color: #E8CFB0;
 }
 
-@media (max-width: 768px){
-    .logo {
-        display: flex;
-        align-items: center;
-    }
-    
-    .logo img {
-        width: 40px;
-    }
-}
+@media (max-width: 768px){}
